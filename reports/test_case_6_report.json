@@ -1,0 +1,31 @@
+{
+    "A1": {
+        "packages_delivered": 1,
+        "total_distance": 21.2602916254693,
+        "total_delay_time": 4,
+        "efficiency": 21.26,
+        "avg_delay_time": 4.0
+    },
+    "A2": {
+        "packages_delivered": 0,
+        "total_distance": 0.0,
+        "total_delay_time": 0,
+        "efficiency": 0,
+        "avg_delay_time": 0
+    },
+    "A3": {
+        "packages_delivered": 4,
+        "total_distance": 123.42507097445687,
+        "total_delay_time": 13,
+        "efficiency": 30.86,
+        "avg_delay_time": 3.25
+    },
+    "A4": {
+        "packages_delivered": 4,
+        "total_distance": 210.25985529672934,
+        "total_delay_time": 28,
+        "efficiency": 52.56,
+        "avg_delay_time": 7.0
+    },
+    "best_agent": "A1"
+}
